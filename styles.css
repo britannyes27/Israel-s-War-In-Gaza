@@ -1,0 +1,30 @@
+body{
+    background-color:#FFFFF0 ;
+}
+
+h1{color: #000000;
+}
+
+#first-paragraph{
+    background-color: #F5DEB3;
+    padding: 25px;
+    border: 2px solid;
+    color:#B8860B ;
+    margin: 25px;
+}
+
+#second-paragraph{
+    background-color: #F5DEB3;
+    padding: 25px;
+    border: 2px solid;
+    color:#B8860B ;
+    margin: 25px;
+}
+
+#third-paragraph{
+    background-color: #F5DEB3;
+    padding: 25px;
+    border: 2px solid;
+    color:#B8860B ;
+    margin: 25px;
+}
